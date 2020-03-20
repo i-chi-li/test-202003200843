@@ -1,6 +1,7 @@
+---
 layout: page
 title: "実験室"
-permalink: /lab/
+---
 
 # このサイトについて
 

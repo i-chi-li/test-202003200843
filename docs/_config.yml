@@ -1,2 +1,3 @@
 title: ハロー GitGub Pages
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+markdown_ext: "markdown,md"
