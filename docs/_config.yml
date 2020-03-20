@@ -1,4 +1,9 @@
 title: ハロー GitGub Pages
+description: >- # Description
+  desc2
+  desc3
+baseurl: ""
+url: ""
 theme: jekyll-theme-hacker
 plugins:
 - jekyll-feed
