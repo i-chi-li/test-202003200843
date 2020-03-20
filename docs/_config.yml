@@ -1,6 +1,2 @@
 title: ハロー GitGub Pages
-baseurl: ""
-url: ""
 theme: jekyll-theme-hacker
-plugins:
-- jekyll-feed
